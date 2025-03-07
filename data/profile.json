@@ -48,13 +48,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Calculadora Lucro Líquido - Motorista App",
+      "url": "https://github.com/bruno-mkti/Calculadora-lucro-liquido-motorista-app",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Custo Viagem",
+      "url": "https://github.com/bruno-mkti/Custo-viagem",
       "github": true
     }
   ],
